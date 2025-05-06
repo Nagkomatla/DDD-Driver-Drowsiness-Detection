@@ -1,8 +1,11 @@
-# DDD-Driver-Drowsiness-Detection
-🚨 Driver Drowsiness Detection – Version 1.0 😴 A real-time driver drowsiness detection system using OpenCV, MediaPipe, and Python to enhance driver safety by monitoring eye closure and alerting when drowsiness is detected.
+# 🚨Driver Drowsiness Detection - My New Project! 😴🚨(Version 1.0)
+# A real-time driver drowsiness detection system using OpenCV and Python and MediaPipe.
+# -------------------------------------------------------
+
 ## Have you ever felt drowsy while driving? 
 ## I built a simple driver drowsiness detection system  that uses computer vision to track blink counts and detect prolonged eye closure, triggering an alert! 
 ## When you’re too tired, the system triggers an alert🚨 to keep you safe.
+
 
 
 
@@ -36,3 +39,5 @@
 # 🔹 Sending alerts via Telegram
 
 # 🔹 Mobile App Integration
+
+
